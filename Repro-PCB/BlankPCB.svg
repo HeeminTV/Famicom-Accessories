@@ -28,118 +28,51 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.6185924"
-     inkscape:cx="231.06496"
-     inkscape:cy="152.60173"
+     inkscape:zoom="2.4170452"
+     inkscape:cx="249.89189"
+     inkscape:cy="117.91257"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="board" />
+     inkscape:current-layer="silkscreen" />
   <defs
      id="defs1" />
   <g
      inkscape:groupmode="layer"
-     id="silkscreen0"
-     inkscape:label="silkscreen0"
-     sodipodi:insensitive="true" />
-  <g
-     inkscape:groupmode="layer"
-     id="silkscreen"
-     inkscape:label="silkscreen" />
-  <g
-     inkscape:label="board"
-     inkscape:groupmode="layer"
-     id="board"
-     style="display:inline;stroke-width:0.1;stroke-dasharray:none"
-     sodipodi:insensitive="true">
+     id="layer1"
+     inkscape:label="layer1"
+     style="display:inline">
     <g
-       inkscape:label="board"
        inkscape:groupmode="layer"
-       id="g19"
-       style="display:inline;stroke-width:0.1;stroke-dasharray:none">
-      <g
-         inkscape:groupmode="layer"
-         id="g15"
-         inkscape:label="silkscreen"
-         style="stroke-width:0.1;stroke-dasharray:none" />
-      <rect
-         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect15"
-         width="90"
-         height="20.9"
-         x="0"
-         y="0" />
-      <rect
-         style="fill:#d3c66d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.177995;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect16"
-         width="78.400002"
-         height="33.899998"
-         x="5.7999992"
-         y="22.9" />
-      <rect
-         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.478539;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect17"
-         width="43"
-         height="45.799999"
-         x="4.5"
-         y="-2.8421709e-14" />
-      <rect
-         style="display:inline;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect18"
-         width="90"
-         height="23.200001"
-         x="0"
-         y="22.9" />
-      <rect
-         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.478539;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         id="rect19"
-         width="33"
-         height="45.799999"
-         x="52.5"
-         y="-2.8421709e-14" />
+       id="board"
+       inkscape:label="board"
+       style="display:inline"
+       transform="translate(-24.870833,26.9875)">
+      <path
+         id="boardoutline"
+         style="display:inline;fill:#507f50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:0;stroke-opacity:1;paint-order:markers stroke fill"
+         inkscape:label="mainbord"
+         d="m 24.870833,-26.9875 v 20.900016 h 4.499984 v 1.999878 h -4.499984 v 23.200134 h 5.800163 V 29.812651 H 109.07086 V 19.112528 h 5.80016 V -4.087606 h -4.49998 v -1.999878 h 4.49998 V -26.9875 Z m 47.499943,20.900016 h 5.000212 v 1.999878 h -5.000212 z" />
+      <path
+         style="fill:#beb488;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.781849;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="M 23.168785,194.4523 V 175.4208 H 170.04233 316.91588 v 19.0315 19.0315 H 170.04233 23.168785 Z"
+         id="path1"
+         transform="matrix(0.26458333,0,0,0.26458333,24.870833,-26.9875)" />
     </g>
     <g
        inkscape:groupmode="layer"
-       id="g14"
+       id="silkscreen"
        inkscape:label="silkscreen"
-       style="stroke-width:0.1;stroke-dasharray:none" />
-    <rect
-       style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-       id="rect3"
-       width="90"
-       height="20.9"
-       x="0"
-       y="0" />
-    <rect
-       style="fill:#d3c66d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.177995;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-       id="rect6"
-       width="78.400002"
-       height="33.899998"
-       x="5.7999992"
-       y="22.9" />
-    <rect
-       style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.478539;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-       id="rect8"
-       width="43"
-       height="45.799999"
-       x="4.5"
-       y="-2.8421709e-14" />
-    <rect
-       style="display:inline;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-       id="rect4"
-       width="90"
-       height="23.200001"
-       x="0"
-       y="22.9" />
-    <rect
-       style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.478539;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:markers stroke fill"
-       id="rect8-0"
-       width="33"
-       height="45.799999"
-       x="52.5"
-       y="-2.8421709e-14" />
+       style="display:inline"
+       transform="translate(19.314583,14.022917)">
+      <path
+         id="rect1-6"
+         style="display:inline;fill:none;fill-opacity:0.682875;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         inkscape:label="mainbord"
+         d="M -19.314583,-14.022917 V 6.877099 h 4.499984 v 1.999878 h -4.499984 v 23.200134 h 5.800163 V 42.777234 H 64.885445 V 32.077111 h 5.800163 V 8.876977 H 66.185625 V 6.877099 h 4.499983 V -14.022917 Z M 28.18536,6.877099 h 5.000212 V 8.876977 H 28.18536 Z" />
+    </g>
   </g>
   <metadata
      id="metadata14">
