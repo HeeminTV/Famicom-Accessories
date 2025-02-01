@@ -10,7 +10,7 @@ and since these are personal projects i can not guarantee that any of them will 
 - Repro-PCB\Mapper183_ShuiGuanPipe.fzz
 	- Done. Needs to be tested
 - Repro-PCB\Mapper85_DonkeyKongCountry4VRC7.fzz
-	- 80%
+	- Done. Needs to be tested
 - Repro-PCB\Proto.fzz
 	- Works perfectly fine
 - Repro-PCB\Blank.fzz
