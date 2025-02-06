@@ -15,3 +15,5 @@ and since these are personal projects i can not guarantee that any of them will 
 	- Works perfectly fine
 - Repro-PCB\Blank.fzz
 	- Works perfectly fine
+- Other-PCB\AY-3-8912_AVR.fzz
+	- Done. Needs to be tested
