@@ -11,9 +11,13 @@ and since these are personal projects i can not guarantee that any of them will 
 	- Done. Needs to be tested
 - Repro-PCB\Mapper85_DonkeyKongCountry4VRC7.fzz
 	- Done. Needs to be tested
+- Repro-PCB\Mapper19_PacmanChampionshipEdition.fzz
+	- 0%
+
 - Repro-PCB\Proto.fzz
 	- Works perfectly fine
 - Repro-PCB\Blank.fzz
 	- Works perfectly fine
+
 - Other-PCB\AY-3-8912_AVR.fzz
 	- Done. Needs to be tested
