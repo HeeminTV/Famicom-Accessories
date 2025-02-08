@@ -1,0 +1,32 @@
+                             _____
+                            /     \
+           (f) SOUND   <-  / 1  48 \ -> CHR A14 (r)
+          (r) CHR A13 <-  / 2    47 \ -> CHR A15 (r)
+         (r) CHR A12 <-  / 3   O  46 \ -> CHR A16 (r)
+        (r) CHR A11 <-  / 4        45 \ -> CHR A17 (r)
+      (fr)*CHR A10 <-  / 5          44 \ -> $F000.6,7
+              GND --  / 6            43 \ -- +5Vcc
+     (r) PRG A18 <-  / 7              42 \ -> CIRAM /CE (f)
+    (r) PRG A17 <-  / 8                41 \ -> CHR ROM /CE (r)
+   (r) PRG A16 <-  / 9                  40 \ -> WRAM /CE (w)
+  (r) PRG A15 <-  / 10                   39 \ -> /IRQ (f)
+ (r) PRG A14 <-  / 11        NAMCO        38 \ <- PPU A10 (f)
+(r) PRG A13 <-  / 12    129/163/175/340    37 \ <- PPU A11 (f)
+               /                               \
+               \        Package QFP-48,        /
+(fr)  CPU D7 <> \ 13      0.8mm pitch      36 / <- PPU A12 (f)
+ (fr)  CPU D6 <> \ 14                     35 / <- PPU A13 (f)
+  (fr)  CPU D5 <> \ 15                   34 / <- 1: apply pin 33 to pin 42 as well
+   (fr)  CPU D4 <> \ 16                 33 / <- PPU /RD (f) or GND (see below)
+    (fr)  CPU D3 <> \ 17               32 / -- +5Vcc
+     (fr)  CPU D2 <> \ 18             31 / -- GND
+             +5Vcc -- \ 19           30 / <- M2 (f)
+       (fr)  CPU D1 <> \ 20         29 / <- R/W (fw)
+        (fr)  CPU D0 <> \ 21       28 / <- /ROMSEL (f)
+             /$E000.7 <- \ 22     27 / <- CPU A14 (f)
+          (r) PRG /CE  <- \ 23   26 / <- CPU A13 (f)
+          (fr) CPU A11  -> \ 24 25 / <- CPU A12 (fr)
+                            \     /
+                             \   /
+                              \ /
+                               V
