@@ -1,0 +1,6 @@
+@ECHO OFF
+IF "%~1"=="" EXIT /B
+TYPE "%~1"
+:A
+PAUSE >NUL
+GOTO A
