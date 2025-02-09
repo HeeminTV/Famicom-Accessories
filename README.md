@@ -23,3 +23,7 @@ and since these are personal projects i can not guarantee that any of them will 
 
 - Other-PCB\AY-3-8912_AVR.fzz
 	- Done. Needs to be tested
+| File Path | Status |
+| :---         |     :---:      |
+| 1 | 2 |
+| 3 | 4 |
