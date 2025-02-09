@@ -10,10 +10,12 @@ and since these are personal projects i can not guarantee that any of them will 
 - Repro-PCB\Mapper183_ShuiGuanPipe.fzz
 	- Done. Needs to be tested
 - Repro-PCB\Mapper85_DonkeyKongCountry4VRC7.fzz
-	- Done. Needs to be tested
+	- Done. Needs to be tested (Paused)
 - Repro-PCB\Mapper19_PacmanChampionshipEdition.fzz
+	- 5% (Paused)
+- Repro-PCB\Mapper69_FME-7Discrete.fzz
 	- 0%
-
+	
 - Repro-PCB\Proto.fzz
 	- Works perfectly fine
 - Repro-PCB\Blank.fzz
