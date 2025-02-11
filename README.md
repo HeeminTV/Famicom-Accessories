@@ -11,8 +11,6 @@ and since these are personal projects i can not guarantee that any of them will 
 	- Works perfectly fine
 - Repro-PCB\Mapper85_DonkeyKongCountry4VRC7.fzz
 	- Done. Needs to be tested (Paused)
-- Repro-PCB\Mapper19_PacmanChampionshipEdition.fzz
-	- 5% (Paused)
 - Repro-PCB\Mapper69_FME-7Discrete.fzz
 	- 0%
 	
