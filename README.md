@@ -10,7 +10,7 @@ and since these are personal projects i can not guarantee that any of them will 
 - Repro-PCB\Mapper183_ShuiGuanPipe.fzz
 	- Works perfectly fine
 - Repro-PCB\Mapper85_DonkeyKongCountry4VRC7.fzz
-	- Done. Needs to be tested (Paused)
+	- Done. Needs to be tested
 - Repro-PCB\Mapper69_FME-7Discrete.fzz
 	- 0%
 	
@@ -20,4 +20,4 @@ and since these are personal projects i can not guarantee that any of them will 
 	- Works perfectly fine
 
 - Other-PCB\AY-3-8912_AVR.fzz
-	- Done. Needs to be tested
+	- Done. **Does not work**
