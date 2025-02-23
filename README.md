@@ -15,7 +15,6 @@ and since these are personal projects i can not guarantee that any of them will 
 	- 0%
 - Repro-PCB\Mapper19_Pacmance.fzz
 	- Done. Needs to be tested
-	
 - Repro-PCB\Proto.fzz
 	- Works perfectly fine
 - Repro-PCB\Blank.fzz
