@@ -14,7 +14,7 @@ and since these are personal projects i can not guarantee that any of them will 
 - Repro-PCB\Mapper69_FME-7Discrete.fzz
 	- 0%
 - Repro-PCB\Mapper19_Pacmance.fzz
-	- 50%
+	- Done. Needs to be tested
 	
 - Repro-PCB\Proto.fzz
 	- Works perfectly fine
