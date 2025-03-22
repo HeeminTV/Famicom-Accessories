@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190.5mm"
+   height="77.470001mm"
+   viewBox="0 0 190.5 77.470001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="AppleIICard_MockingBoard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="1.0078851"
+     inkscape:cx="334.8596"
+     inkscape:cy="286.73904"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="board" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="layer1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="board"
+       inkscape:label="board">
+      <path
+         id="rect1"
+         style="fill:#2d752d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-miterlimit:0;paint-order:markers stroke fill"
+         inkscape:label="mainboard"
+         d="M 55.127901 0 A 55.127811 48.827488 0 0 0 0 48.826994 L 0 69.85 L 114.9351 69.85 L 114.9351 75.470329 A 1.999912 2.000122 0 0 0 116.93498 77.470207 L 178.97512 77.470207 A 1.999912 2.000122 0 0 0 180.975 75.470329 L 180.975 69.85 L 190.5 69.85 L 190.5 4.9996948 A 5 5 0 0 0 185.49979 0 L 180.975 0 L 114.9351 0 L 55.127901 0 z " />
+    </g>
+  </g>
+</svg>
